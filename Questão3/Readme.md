@@ -1,4 +1,3 @@
-
 - Entrega: 09/11/2025
 
 - Documente as decisões de design no código e justifique a escolha de cada padrão para o problema específico
