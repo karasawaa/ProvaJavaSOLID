@@ -1,5 +1,5 @@
 /**
- * Classe principal que demonstra o uso do sistema.
+ * Classe principal que demonstra o uso do sistema. É como se fosse a "MAIN"
  * 
  * Este exemplo mostra:
  * - Uso do padrão Adapter

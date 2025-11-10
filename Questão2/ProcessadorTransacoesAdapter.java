@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 /**
  * Adapter que converte entre a interface moderna e o sistema legado.
  * 
